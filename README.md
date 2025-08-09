@@ -1,7 +1,5 @@
 <div align="center">
-  <br />
-      <img src="https://github.com/adrianhajdin/pricewise/assets/151519281/315377f2-0307-4ac2-87e0-55e053ca094b" alt="Project Banner">
-  <br />
+
 
   <div>
    <img src="https://img.shields.io/badge/-Web_Scraping-black?style=for-the-badge&logoColor=white&color=FF0000" alt="webscraping" />
@@ -10,7 +8,7 @@
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
   </div>
 
-  <h3 align="center">A Ecom Price Tracking Application</h3>
+  <h3 align="center">A Ecommerce Price Tracking Application</h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -20,8 +18,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
